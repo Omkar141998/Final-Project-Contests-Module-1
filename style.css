@@ -205,6 +205,22 @@ color: #000000;
     border: 2px solid #000000;
 }
 
+.service-1{
+    /* position: absolute; */
+width: 253px;
+height: 78px;
+left: 126px;
+top: 2509px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
 .service-2-box{
     box-sizing: border-box;
 
@@ -215,6 +231,23 @@ left: 747px;
 top: 2464px;
 
 border: 2px solid #000000;
+padding: 20px;
+}
+.service-2{
+    /* position: absolute; */
+width: 253px;
+height: 78px;
+left: 791px;
+top: 2509px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
 }
 
 .service-3-box{
@@ -225,6 +258,23 @@ border: 2px solid #000000;
     left: 1412px;
     top: 2464px;
     border: 2px solid #000000;
+    padding: 10px;
+}
+.service-3{
+    /* position: absolute; */
+width: 253px;
+height: 78px;
+left: 1456px;
+top: 2509px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
 }
 
 .container-footer{
@@ -263,6 +313,7 @@ top: 3515px;
 
 border: 1px solid #FFFFFF;
 }
+
 .text-2{
     /* box-sizing: border-box; */
 
@@ -309,20 +360,20 @@ text-align: center;
 
 background: #FFFFFF; */
 
-.submit-button{
+/* .submit-button{
     /* position: absolute; */
-    width: 93.46px;
+    /* width: 93.46px;
     height: 33px;
     left: 224px;
     top: 3953px;
     
     /* font-family: 'Inter';
     font-style: normal; */
-    font-weight: 300;
+    /* font-weight: 300;
     font-size: 24px;
     line-height: 29px;
     text-align: center;
-}
+  */
 /*     
     color: #000000; */
     
@@ -331,7 +382,7 @@ background: #FFFFFF; */
 
 
 
-/* .slider{
+.slider{
     margin-right:20px;
     flex-direction: row;
     justify-content: space-between;
@@ -387,4 +438,4 @@ input {
     padding:10px;
     transition: all 0.3s;
     cursor: pointer;
-  } */
+  }
