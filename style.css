@@ -296,8 +296,32 @@ border: 1px solid #FFFFFF;
     border: 1px solid #FFFFFF;
 }
 
+.submit-button{
+    /* position: absolute; */
+width: 260.75px;
+height: 58px;
+left: 146px;
+top: 3941px;
 
+background: #FFFFFF;
+}
+#message{
+    /* position: absolute;*/
+width: 93.46px; 
+height: 33px;
+left: 224.46px;
+top: 3953px;
 
+/* font-family: 'Inter';
+font-style: normal; */
+font-weight: 300;
+font-size: 24px;
+/* line-height: 29px; */
+text-align: center;
+
+color: #000000;
+
+}
 
 /* .slider{
     margin-right:20px;
