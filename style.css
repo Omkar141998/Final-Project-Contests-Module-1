@@ -302,6 +302,7 @@ width: 260.75px;
 height: 58px;
 left: 146px;
 top: 3941px;
+text-align: center;
 
 background: #FFFFFF;
 }
@@ -318,7 +319,6 @@ font-weight: 300;
 font-size: 24px;
 /* line-height: 29px; */
 text-align: center;
-
 color: #000000;
 
 }
